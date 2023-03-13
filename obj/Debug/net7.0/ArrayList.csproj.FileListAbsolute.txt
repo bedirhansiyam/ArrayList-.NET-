@@ -1,0 +1,5 @@
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ArrayList\obj\Debug\net7.0\ArrayList.csproj.AssemblyReference.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ArrayList\obj\Debug\net7.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfo.cs
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ArrayList\obj\Debug\net7.0\ArrayList.csproj.CoreCompileInputs.cache
